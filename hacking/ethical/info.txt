@@ -1,3 +1,2 @@
-
-  #CEH.pdf
+#CEH.pdf
     ethical hacking guide with explanation and questions, from basic to trojan, virus, linux hardening, web hacking, sql injection
